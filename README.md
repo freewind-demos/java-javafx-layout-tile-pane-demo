@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX Layout TilePane Demo
+===========================
 
-Show a window with `Hello, JavaFX` label.
+Layout -> `TilePane`
 
